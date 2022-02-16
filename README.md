@@ -1,14 +1,18 @@
 # Python Boas Práticas de Código com PEP8
 
-Curso da Alura sobre BLABLABLA
+Curso da Alura sobre pequenos detalhes sobre legibilidade de código no Python
 
 ## Objetivo Final &#x1F3AF;
 
-Objetivo resumido
+Criar classes para o ByteBank implementando boas práticas de legibilidade de código
 
 URL do curso -> [Python Boas Práticas de Código com PEP8](https://cursos.alura.com.br/course/pep8-linters-python)
 
 ![Python Boas Práticas de Código com PEP8](https://www.alura.com.br/assets/api/share/curso-pep8-linters-python.png)
+
+## Links Úteis &#x1F517;
+* [MyPy](https://mypy.readthedocs.io/en/stable/) - Site da documentação do pacote **MyPy** para verificação de sintaxe e tipagem no código **Python**.
+* [Flake8](https://flake8.pycqa.org/en/latest/) - Site da documentação do pacote **Flake8**.
 
 ## 01 - Descobrindo o PEP-8 e o Type Hints &#x1F516;
 * Técnicas de Type hints.
@@ -28,3 +32,21 @@ URL do curso -> [Python Boas Práticas de Código com PEP8](https://cursos.alura
 
 ### 04 - O Poder to PEP 8
 * Criar uma função `statistics`.
+
+## 02 - Ferramentas de Code Lint &#x1F516;
+* Como instalar e usar o `MyPy`.
+* A criar um projeto no `GitHub`.
+* Como instalar e configurar o `Flake8`.
+* Como alertar erros de estilo no `commit`.
+* Como bloquear um `commit` que tenha problemas de estilo de código.
+
+### 01 - Usando o MyPy
+* Instalar o pacote ***mypy*** através do *pip*.
+* O pacote ***mypy*** verifica o *type hint* do código.
+
+### 02 - Usando o Flake8
+* Instalar o pacote ***Flake8***.
+* O pacote ***Flake8*** verifica o *style code* do código.
+
+### 03 - Flake8 no Commit
+* Prevenir *commits* com errro de *style code*.
