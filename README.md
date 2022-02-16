@@ -50,3 +50,20 @@ URL do curso -> [Python Boas Práticas de Código com PEP8](https://cursos.alura
 
 ### 03 - Flake8 no Commit
 * Prevenir *commits* com errro de *style code*.
+
+## 03 - O Método Template e mais sobre PEP-8 &#x1F516;
+* Novas regras do `PEP-8`.
+* Oque é uma classe abstrata.
+* Oque é um `Template Method`.
+
+### 01 - O Tamanho das Linhas Importa
+* Classe base `Queue`.
+
+### 02 - Resolvendo Problemas de Estilo
+* Resolvendo todos os erros de *style code*.
+
+### 03 - Criando uma Classe Abstrata
+* Criar uma classe abstrata.
+
+### 04 - Template Method
+* Implementar métodos na classe abstrata.
