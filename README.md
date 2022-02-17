@@ -67,3 +67,16 @@ URL do curso -> [Python Boas Práticas de Código com PEP8](https://cursos.alura
 
 ### 04 - Template Method
 * Implementar métodos na classe abstrata.
+
+## 04 - Avançando nas Técnicas de Tipagem &#x1F516;
+* Sobre o padrão de projeto `Factory`.
+* Como trabalhar com constantes seguindo o `PEP-8`.
+* Mais técnicas de `Type Hints`.
+
+### 01 - Constantes no PEP-8
+* Definindo *constantes*.
+
+### 02 - Fábricas e Tipagens
+* Implementar o padrão ***Factory***.
+
+### 03 - Avançando na Tipagem
