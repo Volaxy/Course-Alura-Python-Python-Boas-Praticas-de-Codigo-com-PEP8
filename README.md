@@ -80,3 +80,15 @@ URL do curso -> [Python Boas Práticas de Código com PEP8](https://cursos.alura
 * Implementar o padrão ***Factory***.
 
 ### 03 - Avançando na Tipagem
+* Inferir tipos nas listas.
+
+## 05 - Injeção de Dependência e Responsabilidade &#x1F516;
+* Como reduzir a quantitade de `ifs` em seus códigos.
+* Sobre o padrão de projeto `Injeção de dependências`.
+* Sobre o conceito de responsabilidades nos seus códigos.
+
+### 01 - Reduzindo Quantidade de Ifs
+* Fazer **Injeção de Dependência**.
+
+### 02 - Construindo uma Dependência
+* Criar as classes para a **Injeção de Dependência**.
